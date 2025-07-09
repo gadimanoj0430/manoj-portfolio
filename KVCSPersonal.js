@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 //* Hero section Part //
-const phrases = ["Software Engineer ", "NXT Wave Learner ", "MERN Stack Developer ", "FullStack WebDeveloper ", "Ui/Ux Designer "];
+const phrases = ["Software Engineer ", "AI & ML ", "MERN Stack Developer ", "FullStack WebDeveloper ", "Ui/Ux Designer "];
 const typedText = document.getElementById("typed-text");
 let i = 0;
 let j = 0;
